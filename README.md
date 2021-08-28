@@ -59,21 +59,21 @@ $ php artisan serve
 * Acessar o navegador
 ```shell
 http://127.0.0.1:8000
-
+```
 
 ----
 
 ### CRUD
 
-* **C**reate **[DONE]**
+- **C**reate **[DONE]**
 
-* **R**ead **[DONE]**
-
-
-* **U**pdate  **[DONE]**
+- **R**ead **[DONE]**
 
 
-* **D**elete  **[DONE]**
+- **U**pdate  **[DONE]**
+
+
+- **D**elete  **[DONE]**
 
 ----
 
