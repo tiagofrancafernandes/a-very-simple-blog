@@ -2,7 +2,7 @@
 
 * **C**reate **[DONE]**
 
-* **R**ead
+* **R**ead **[DONE]**
     - apresentação de um único item
 
     - listagem **[DONE]**
