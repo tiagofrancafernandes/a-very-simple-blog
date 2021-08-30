@@ -18,11 +18,11 @@
                 <th colspan="5" scope="row">Info</th>
             </tr>
             <tr>
-                <td><strong>ID:</strong> {{ $post->id }}</td>
-                <td><strong>Author:</strong> <a href="#!">John</a></td>
-                <td><strong>Created at:</strong> {{ $post->created_at }}</td>
-                <td><strong>Last update:</strong> {{ $post->updated_at }}</td>
-                <td><strong>Published:</strong> yes</td>
+                <td><strong>ID:</strong> <br> {{ $post->id }}</td>
+                <td><strong>Author:</strong> <br> <a href="#!">John</a></td>
+                <td><strong>Created at:</strong> <br> {{ $post->created_at }}</td>
+                <td><strong>Last update:</strong> <br> {{ $post->updated_at }}</td>
+                <td><strong>Published:</strong> <br> yes</td>
             </tr>
             <tr>
                 <th colspan="5" scope="row">{{ $post->title }}</th>
