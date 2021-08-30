@@ -32,5 +32,11 @@
             </div>
             @endforeach
         </div>
+
+        <div class="row">
+            <div class="col-12 py-2 my-3 d-flex justify-content-center">
+                {{ $posts->links('pagination::bootstrap-4') }}
+            </div>
+        </div>
     </div>
 </div>
